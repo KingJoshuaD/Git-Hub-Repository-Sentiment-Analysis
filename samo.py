@@ -1,0 +1,5 @@
+x = ("hllo mu name is king")
+q,w,e,r,y = x.split()
+print(q)
+print(w)
+print(r)
